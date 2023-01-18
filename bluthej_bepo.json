@@ -88,15 +88,15 @@
       "KC_ENT",
       "KC_NO",
       "KC_NO",
-      "KC_TRNS",
       "KC_NO",
-      "KC_ENT",
       "KC_TRNS",
+      "KC_ENT",
+      "MO(3)",
       "KC_NO"
     ],
     [
       "KC_GRV",
-      "KC_TILD",
+      "KC_1",
       "KC_UNDS",
       "RALT(KC_E)",
       "KC_6",
@@ -132,10 +132,10 @@
       "KC_9",
       "KC_NO",
       "KC_NO",
+      "MO(3)",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_NO",
       "KC_NO"
     ],
     [
@@ -176,10 +176,10 @@
       "LCTL(KC_RPRN)",
       "KC_NO",
       "KC_NO",
+      "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_NO",
       "KC_NO"
     ]
   ],
