@@ -39,9 +39,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //|--------+--------------+--------------+--------------+--------------+--------------|                    |--------+--------+--------+--------+--------+--------|
         KC_NO, OSM(MOD_LALT), OSM(MOD_LGUI), OSM(MOD_LSFT), OSM(MOD_LCTL), OSM(MOD_RALT),                      KC_PGDN, KC_LEFT, KC_DOWN, KC_RGHT,  KC_DEL,   KC_NO,
   //|--------+--------------+--------------+--------------+--------------+--------------|                    |--------+--------+--------+--------+--------+--------|
-      KC_LSFT, LCTL(KC_LBRC),    LCTL(KC_C),    LCTL(KC_H),       KC_LGUI,    LCTL(KC_U),                        KC_NO, KC_BSPC,  KC_TAB,  KC_APP,  KC_ENT,   KC_NO,
+QK_CLEAR_EEPROM, LCTL(KC_LBRC),    LCTL(KC_C),    LCTL(KC_H),       KC_LGUI,    LCTL(KC_U),                        KC_NO, KC_BSPC,  KC_TAB,  KC_APP,  KC_ENT,   KC_NO,
   //|--------+--------------+--------------+--------------+--------------+--------------+--------|  |--------+--------+--------+--------+--------+--------+--------|
-                                                                          KC_NO,   KC_NO, KC_TRNS,     KC_ENT,   MO(3),   KC_NO
+                                                                                   KC_NO,   KC_NO, KC_TRNS,     KC_ENT,   MO(3),   KC_NO
                                                                     //`--------------------------'  `--------------------------'
   ),
 
