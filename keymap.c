@@ -48,9 +48,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //,-----------------------------------------------------------------------------------.                    ,-----------------------------------------------------.
             KC_GRV,         KC_1,      KC_UNDS,   RALT(KC_E),         KC_6,       KC_EQL,                      KC_MINS, KC_AMPR, KC_ASTR, KC_LPRN,    KC_7, XXXXXXX,
   //|-------------+-------------+-------------+-------------+-------------+-------------|                    |--------+--------+--------+--------+--------+--------|
-        RALT(KC_Q), RALT(KC_SPC),   RALT(KC_2),   RALT(KC_X),         KC_4,   RALT(KC_4),                         KC_0,  KC_DLR, KC_PERC, KC_CIRC,    KC_8,    KC_V,
+        RALT(KC_Q), RALT(KC_SPC),   RALT(KC_2),   RALT(KC_3),         KC_4,         KC_5,                         KC_0,  KC_DLR, KC_PERC, KC_CIRC,    KC_8,    KC_V,
   //|-------------+-------------+-------------+-------------+-------------+-------------|                    |--------+--------+--------+--------+--------+--------|
-           XXXXXXX,   RALT(KC_Z),   RALT(KC_3),   RALT(KC_C),         KC_5,   RALT(KC_5),                      KC_RPRN, KC_EXLM,   KC_AT, KC_HASH,    KC_9, XXXXXXX,
+           XXXXXXX,   RALT(KC_Z),   RALT(KC_X),   RALT(KC_C),   RALT(KC_4),   RALT(KC_5),                      KC_RPRN, KC_EXLM,   KC_AT, KC_HASH,    KC_9, XXXXXXX,
   //|-------------+-------------+-------------+-------------+-------------+-------------+--------|  |--------+--------+--------+--------+--------+--------+--------|
                                                                         XXXXXXX,   MO(3), KC_TRNS,    KC_TRNS, XXXXXXX, XXXXXXX
                                                                     //`--------------------------'  `--------------------------'
