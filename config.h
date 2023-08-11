@@ -50,5 +50,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define RGBLIGHT_VAL_STEP 17
     #define RGBLIGHT_DEFAULT_MODE RGBLIGHT_MODE_RAINBOW_SWIRL
 #endif
-
-#define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
