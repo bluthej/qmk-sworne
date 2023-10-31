@@ -11,5 +11,6 @@ The goal is to eventually flash it on a mix between a [Sweep](https://github.com
 
 I regularly have issues when I try to re-flash my microcontrollers. Here are some tips that have helped me in the past:
 
+- The command `qmk flash` should be run from the root of the `qmk_firmware` repo
 - Run `qmk doctor` if something is not working correctly. This usually fixes things.
 - If the microcontroller is not resetting, use `lsusb -t` (from the `usbutils` package) to check if the USB device is there and if the drivers are found.
